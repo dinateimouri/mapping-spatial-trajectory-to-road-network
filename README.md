@@ -5,4 +5,3 @@ To ensure the accuracy of the map-matching algorithm, the searching distance rad
 
 The output of the map matching process is a sequence of OpenStreetMap (OSM) nodes that represent the user's traversal along the road network. 
 
-For more details on the research behind this code, check out my paper [here](https://www.tandfonline.com/doi/full/10.1080/17489725.2023.2229285?src=) and my thesis [here](https://lnkd.in/diu_Y9sp).
